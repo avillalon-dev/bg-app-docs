@@ -1,0 +1,129 @@
+[
+    {
+      "id": "easy-vegan-pizza-pasta-bake",
+      "name": "Easy Vegan Pizza Pasta Bake",
+      "submittedBy": "Gena Hamshaw",
+      "url": "https://www.thefullhelping.com/easy-vegan-pizza-pasta-bake/",
+      "image": "assets/recipes/easy-vegan-pizza-pasta-bake.jpg",
+      "description": "A comforting and flavorful vegan pasta bake that combines the best of pizza and pasta! This dish features your favorite pasta tossed with a rich marinara sauce, creamy cashew sauce, colorful vegetables, and tangy tofu feta, all baked to perfection with a crispy vegan parmesan topping.",
+      "time": {
+        "prep": "15 minutes",
+        "cook": "45 minutes",
+        "total": "1 hour"
+      },
+      "nutrition": [
+        { "name": "Calories", "quantity": "300-450 (estimated per serving, highly variable)" },
+        { "name": "Fat", "quantity": "Variable depending on cashew cream and vegan parmesan" },
+        { "name": "Carbohydrates", "quantity": "Variable depending on pasta and vegetables" },
+        { "name": "Protein", "quantity": "Variable depending on pasta, tofu feta, and cashew cream" },
+        { "name": "Fiber", "quantity": "Good source due to vegetables and pasta" },
+        { "name": "Sugar", "quantity": "Moderate, from marinara sauce and vegetables" },
+        { "name": "Sodium", "quantity": "Moderate, depending on store-bought sauces and tofu feta" },
+        { "name": "Calcium", "quantity": "Good source if tofu feta and fortified non-dairy creamer are used" },
+        { "name": "Iron", "quantity": "Moderate, from pasta and vegetables" },
+        { "name": "Vitamin A", "quantity": "Present, especially from vegetables like carrots and peppers" },
+        { "name": "Vitamin C", "quantity": "Present, especially from vegetables like bell peppers and broccoli" }
+      ],
+      "ingredients": [
+        { "name": "pasta of choice", "quantity": "1 lb" },
+        { "name": "marinara sauce", "quantity": "2 cups", "notes": "homemade or store-bought" },
+        { "name": "cashew cream", "quantity": "1 cup", "notes": "you can substitute unsweetened, non-dairy creamer" },
+        { "name": "tomato paste", "quantity": "1/4 cup" },
+        { "name": "dried oregano", "quantity": "1 teaspoon" },
+        { "name": "dried thyme", "quantity": "1 teaspoon" },
+        { "name": "frozen vegetables", "quantity": "1 16- ounce bag", "notes": "cooked according to package instructions, or 5 cups steamed, chopped vegetables of choice (broccoli, carrots, green beans, peppers, zucchini, and cauliflower are all great)" },
+        { "name": "tofu feta", "quantity": "1 batch", "notes": "reserve all of the marinade*" },
+        { "name": "Black pepper", "quantity": "to taste" },
+        { "name": "vegan parmesan topping or my hempesan", "quantity": "1/4 cup" }
+      ],
+      "instructions": [
+        "Preheat your oven to 350F. Bring a pot of water to boil and cook pasta according to package instructions, until it's al dente.",
+        "While the pasta cooks, mix the marinara sauce, cashew cream, tomato paste, oregano, and thyme. When the pasta is ready, drain it and return it to the pot. Add the marinara mixture, the frozen vegetables, and the tofu feta (tip: don't forget to include the tofu feta marinade, which is super flavorful!). Taste and add black pepper to taste, as well as extra salt (or some extra nutritional yeast, if you like).",
+        "Transfer everything to your casserole dish and top with the parm. Bake for 35-40 minutes, or until the pasta is bubbly and the top is just a little crispy. Serve."
+      ],
+      "rating": 4.88,
+      "servings": "6-8",
+      "notes": "*In place of tofu feta, you can substitute 1 1/2 cups of your favorite vegan cheese. Add an extra tablespoon of lemon juice and 1-2 tablespoons nutritional yeast (to taste) to the recipe."
+    },
+    {
+        "id": "juicy-roasted-chicken",
+        "name": "Juicy Roasted Chicken",
+        "submittedBy": "ROBINROCKINGBIRD",
+        "url": "https://www.allrecipes.com/recipe/83557/juicy-roasted-chicken/",
+        "image": "assets/recipes/juicy-roasted-chicken.jpeg",
+        "description": "This recipe provides instructions for preparing a classic juicy roasted chicken. The chicken is seasoned with onion powder, salt, and pepper, and roasted with butter and celery for added flavor. It's a simple yet delicious dish perfect for a family meal.",
+        "time": {
+            "prep": "15 mins",
+            "cook": "1 hr 15 mins",
+            "additional": "30 mins",
+            "total": "2 hrs"
+        },
+        "nutrition": [
+            { "name": "Calories", "quantity": "423" },
+            { "name": "Fat", "quantity": "32g" },
+            { "name": "Carbohydrates", "quantity": "1g" },
+            { "name": "Protein", "quantity": "31g" }
+        ],
+        "ingredients": [
+            { "name": "whole chicken", "quantity": "1 (3 pound)", "notes": "giblets removed" },
+            { "name": "salt", "quantity": "to taste" },
+            { "name": "black pepper", "quantity": "to taste" },
+            { "name": "onion powder", "quantity": "1 tablespoon", "notes": "or to taste" },
+            { "name": "butter", "quantity": "1/2 cup" },
+            { "name": "celery", "quantity": "1 stalk", "notes": "leaves removed" }
+        ],
+        "instructions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Place chicken in a roasting pan; season generously inside and out with onion powder, salt, and pepper. Place 3 tablespoons of butter in chicken cavity; arrange dollops of remaining butter on the outside of chicken.",
+            "Cut celery into 3 or 4 pieces; place in the chicken cavity.",
+            "Bake chicken uncovered in the preheated oven until no longer pink at the bone and the juices run clear, about 1 hour and 15 minutes. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read 165 degrees F (74 degrees C).",
+            "Remove from the oven and baste with drippings. Cover with aluminum foil and allow to rest for about 30 minutes before serving."
+        ],
+        "rating": 4.8,
+        "servings": "6",
+        "notes": ""
+    },
+    {
+        "id": "creamiest-rice-pudding",
+        "name": "Creamiest Rice Pudding",
+        "submittedBy": "Bonnie",
+        "url": "https://www.allrecipes.com/recipe/27131/creamiest-rice-pudding/",
+        "image": "assets/recipes/creamiest-rice-pudding.jpeg",
+        "description": "OK, so this rice pudding with eggs is a little time-consuming to make on the stovetop, but for a real rice pudding fan, it's worth every minute. My husband says it reminds him of the rice pudding he used to get as a child at a restaurant.",
+        "time": {
+          "prep": "10 mins",
+          "cook": "1 hr 15 mins",
+          "additional": "8 hrs",
+          "total": "9 hrs 25 mins"
+        },
+        "nutrition": [
+          { "name": "Calories", "quantity": "173" },
+          { "name": "Fat", "quantity": "3g" },
+          { "name": "Carbs", "quantity": "29g" },
+          { "name": "Protein", "quantity": "8g" }
+        ],
+        "ingredients": [
+          { "name": "milk", "quantity": "1/2 gallon" },
+          { "name": "white sugar", "quantity": "1 cup" },
+          { "name": "uncooked long-grain white rice", "quantity": "1 cup" },
+          { "name": "large eggs", "quantity": "3", "notes": "lightly beaten" },
+          { "name": "milk", "quantity": "1/4 cup" },
+          { "name": "vanilla extract", "quantity": "2 teaspoons" },
+          { "name": "salt", "quantity": "1/4 teaspoon" },
+          { "name": "ground cinnamon", "quantity": "1/4 teaspoon", "notes": "or to taste" }
+        ],
+        "instructions": [
+          "Combine 1/2 gallon milk, sugar, and rice in a large saucepan over medium-low heat. Simmer, covered, for 1 hour, stirring frequently.",
+          "Remove the pan from heat and let sit for 10 minutes.",
+          "Whisk together eggs, 1/4 cup milk, vanilla, and salt in a large bowl until well combined.",
+          "Stir into rice mixture and return the pan to low heat, stirring constantly, for 2 minutes.",
+          "Pour pudding into a 9x13-inch dish and cover with plastic wrap, folding back the corners to allow steam to escape. Allow pudding to cool to room temperature.",
+          "Remove plastic wrap and sprinkle the surface of pudding with cinnamon.",
+          "Cover tightly with fresh plastic wrap and refrigerate for 8 hours to overnight before serving."
+        ],
+        "rating": 4.6,
+        "servings": "12",
+        "notes": ""
+
+      }
+]
