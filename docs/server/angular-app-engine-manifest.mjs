@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/bg-app-docs',
   supportedLocales: {
   "en-US": ""
 },
